@@ -1,0 +1,17 @@
+{
+  "name": "吉米記帳",
+  "short_name": "吉米記帳",
+  "description": "簡單好用的個人記帳 App",
+  "start_url": "/jimmy/",
+  "display": "standalone",
+  "background_color": "#1d6ded",
+  "theme_color": "#1d6ded",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
